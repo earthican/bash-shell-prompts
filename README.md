@@ -21,3 +21,6 @@ local WHITE="\[\033[0;37m\]"
 local WHITEBOLD="\[\033[1;37m\]"
 local RESETCOLOR="\[\e[00m\]"
 ```
+
+## Acknowledgements
+* [Alex Dobson](https://github.com/SufferMyJoy) for his [blog post and code snippets](http://dobsondev.com/2014/02/21/customizing-your-terminal/)
