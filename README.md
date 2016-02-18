@@ -1,6 +1,14 @@
 # osx-shell-prompts
 A collection of code snippets customize your shell prompt
 
+# Current Prompt Display
+
+```bash
+export PS1="$RED\u $PURPLE@ $GREEN\w $GREENBOLD\$(git rev-parse --abbrev-ref HEAD 2> /dev/null)\n $BLUE[\#] → $RESETCOLOR"
+export PS2=" | → $RESETCOLOR"
+```
+![Current prompt display](images/prompt_0000.png)
+
 ## Colors
 ```bash
 local BLACK="\[\033[0;30m\]"
