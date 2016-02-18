@@ -64,3 +64,4 @@ local RESETCOLOR="\[\e[00m\]"
 ## Acknowledgements
 * [Alex Dobson](https://github.com/SufferMyJoy) for his [blog post and code snippets](http://dobsondev.com/2014/02/21/customizing-your-terminal/)
 * [Reddit](https://www.reddit.com/r/programming/comments/697cu/bash_users_what_do_you_have_for_your_ps1/)
+* [flozz](https://github.com/flozz) for his [blog post on colors and formatting](http://misc.flogisoft.com/bash/tip_colors_and_formatting)
